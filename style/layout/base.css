@@ -1,0 +1,13 @@
+:root {
+    --gray: #999999;
+    --dark: #404149;
+    --accent: #F7654A;
+    font-size: 16px;
+    font-family: 'Open Sans';
+    color: var(--gray);
+}
+h1,h2,h3, h4 {
+    font-weight: 500;
+    font-family: Oswald;
+    color: var(--dark);
+}
