@@ -1,0 +1,25 @@
+.hero {
+    background-image: url('../../img/hero.webp');
+}
+.hero__container {
+    min-height: 740px;
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hero__header {
+    max-width: 734px;
+}
+
+.hero__subheader {
+    padding-top: 2rem;
+    display: block;
+    font-size: 1.125rem;
+    line-height: normal;
+    letter-spacing: normal;
+    font-weight: 400;
+}
